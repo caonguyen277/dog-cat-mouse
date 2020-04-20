@@ -5,3 +5,4 @@ function Mouse (name,age){
 Mouse.prototype.sleep = function(){
 	console.log(sleep);
 }
+module.export ='Mouse';
